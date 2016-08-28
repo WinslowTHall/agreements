@@ -1,4 +1,4 @@
 # agreements
 I wanted a place to start building some agreements and other legal docs.
 
-So I want this.
+So I built this.
